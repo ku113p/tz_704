@@ -2,5 +2,8 @@ version: '3.8'
 
 services:
 
-  api:
+  crawler:
     build: crawler
+
+  validator:
+    build: validator
