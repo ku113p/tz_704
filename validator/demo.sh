@@ -1,0 +1,1 @@
+python -m unittest tests.test_loginvalidate && echo 'comparing methods...' && python compare.py
